@@ -1,0 +1,12 @@
+{
+    "name": "xyz.townland.app",
+    "image": "https://dapp.townland.xyz/id/xyz.townland.zpp/image.png",
+    "description": "DApp ID 'xyz.townland.app' to build a DApp on phones on Townland.",
+    "external_url": "https://app.dapp.townland.xyz",
+    "attributes": [
+        {
+            "trait_type": "author",
+            "value": "Townland Project"
+        }
+    ]
+}
