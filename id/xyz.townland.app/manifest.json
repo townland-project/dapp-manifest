@@ -1,6 +1,6 @@
 {
     "name": "xyz.townland.app",
-    "image": "https://dapp.townland.xyz/id/xyz.townland.zpp/image.png",
+    "image": "https://dapp.townland.xyz/id/xyz.townland.app/image.png",
     "description": "DApp ID 'xyz.townland.app' to build a DApp on phones on Townland.",
     "external_url": "https://app.dapp.townland.xyz",
     "attributes": [
